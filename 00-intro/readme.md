@@ -1,5 +1,9 @@
 
 
+## install
+* install node js 
+* npm install n8n -g
+* n8n start
 
 
 ![""](./ai-n8n.png)
